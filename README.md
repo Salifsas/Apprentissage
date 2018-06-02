@@ -1,2 +1,2 @@
 # Apprentissage
-pour apprendre
+pour apprendre le fonctionnement de git 
